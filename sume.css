@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(179, 167, 145);
+}
+
+.lin{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+    border-radius: 50px;
+    height: 250px;
+}
+
+.hp{
+    background-color: rgb(105, 89, 89);
+}
+
+.hp table{
+    width: 100%;
+    text-align: center;
+}
+
+.bs table{
+    width: 100%;
+    border: 1px solid;
+    text-align: center;
+    height: 50px;
+}
+
+p{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+hr{
+    border: 2px solid;
+}
+
+.lin img{
+    width: 80px;
+    height: 80px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.hp tr{
+    background-color: white;
+}
+
+.hp tr:nth-child(odd){
+    background-color: rgb(138, 113, 44);
+}
