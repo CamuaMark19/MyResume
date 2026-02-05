@@ -57,3 +57,9 @@ h1{
 .hp tr:nth-child(odd){
     background-color: rgb(138, 113, 44);
 }
+
+.sm tr{
+    background-color: rgb(138, 113, 44);
+    border: 1px solid;
+    text-align: center;
+}
